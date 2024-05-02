@@ -17,6 +17,7 @@ The provided notebook demonstrates how to fine-tune the LLama3 8b model for gene
 
 ## 🔗 Links
   - [Google Colab Notebook](https://colab.research.google.com/drive/1FG6MQo3kcc6yNKQj34kxgq7lrZtg0U0l?usp=sharing)
+  - [Hugging Face Finetuned Model](https://huggingface.co/rahulAkaVector/java_code_generator_finetuned_model/tree/main)
   
 ## 🛠️ Usage
 
