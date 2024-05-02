@@ -1,6 +1,14 @@
-# Finetuned LLama3 8b to Generate Java Codes
+<h1 align="center">Finetuned LLama3 8b to Generate Java Codes</h1>
+<p align="center"><i>This repository contains code for fine-tuning the LLama3 8b model using Alpaca prompts to generate Java codes. The code is based on a Google Colab notebook.</i></p>
+<div align="center">
+  <a href="https://github.com/Rahul-AkaVector/java-code-generator/stargazers"><img src="https://img.shields.io/github/stars/elangosundar/awesome-README-templates" alt="Stars Badge"/></a>
+<a href="https://github.com/Rahul-AkaVector/java-code-generator/network/members"><img src="https://img.shields.io/github/forks/elangosundar/awesome-README-templates" alt="Forks Badge"/></a>
+<a href="https://github.com/Rahul-AkaVector/java-code-generator/pulls"><img src="https://img.shields.io/github/issues-pr/elangosundar/awesome-README-templates" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Rahul-AkaVector/java-code-generator/issues"><img src="https://img.shields.io/github/issues/elangosundar/awesome-README-templates" alt="Issues Badge"/></a>
+<a href="https://github.com/Rahul-AkaVector/java-code-generator/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/elangosundar/awesome-README-templates?color=2b9348"></a>
+<a href="https://github.com/Rahul-AkaVector/java-code-generator/blob/master/LICENSE"><img src="https://img.shields.io/github/license/elangosundar/awesome-README-templates?color=2b9348" alt="License Badge"/></a>
+</div>
 
-This repository contains code for fine-tuning the LLama3 8b model using Alpaca prompts to generate Java codes. The code is based on a Google Colab notebook.
 
 ## Overview
 
